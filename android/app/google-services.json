@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344267310530",
+    "project_id": "magnet-b9411",
+    "storage_bucket": "magnet-b9411.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344267310530:android:7ac70622779d88337e425b",
+        "android_client_info": {
+          "package_name": "com.example.magnet_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYfTYDfSt2WoOj78DzabDiIm0RD10KecA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
